@@ -1,0 +1,11 @@
+#!/bin/bash
+name="sunny"
+state="Beune"
+LGA="Ohimini"
+primaryschool="mount zion nusery and primary school"
+seconderyschool="united secondery school"
+echo "name:$name"
+echo "state:$state"
+echo "LGA:$LGA"
+echo "primaryschool:$primaryschool"
+echo "seconderyschool:$seconderyschool"
